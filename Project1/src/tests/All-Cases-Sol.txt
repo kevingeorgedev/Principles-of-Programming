@@ -1,0 +1,15 @@
+./constfolding.sol < tests/test0.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test1.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test2.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test3.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test4.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test5.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test6.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test7.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test8.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test9.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test10.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test11.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test12.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test13.out | ./strengthreduct.sol | ./deadcode.sol
+./constfolding.sol < tests/test14.out | ./strengthreduct.sol | ./deadcode.sol

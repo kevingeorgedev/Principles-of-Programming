@@ -1,0 +1,15 @@
+./constfolding < tests/test0.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test1.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test2.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test3.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test4.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test5.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test6.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test7.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test8.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test9.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test10.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test11.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test12.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test13.out | ./strengthreduct | ./deadcode
+./constfolding < tests/test14.out | ./strengthreduct | ./deadcode
